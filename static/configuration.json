@@ -1,7 +1,7 @@
 {
     "githubUsername": "yanyuechuixue",
     "blogTitle": "思慕",
-    "blogDescribe": "你一定要走，走到灯火通明",
+    "blogDescribe": "你一定要走, 走到灯火通明",
     "htmlTitle": "思慕",
     "fontColor": "#ffffff",
     "useBackgroundImage": false,
@@ -10,6 +10,7 @@
     "audioUrl": "https://cdn.jsdelivr.net/gh/yanyuechuixue/yanyuechuixue.github.io/zysgyndfj.mp3",
     "mini": true,
     "webSites":[
-        {"name":"Google Scholar 镜像" , "url":"https://ru.treenew.be/"}
+        {"name":"Google Scholar 镜像" , "url":"https://ru.treenew.be/"},
+        {"name":"Google 镜像, 不保证可用" , "url":"https://g.treenew.be/"}
     ]
 }
